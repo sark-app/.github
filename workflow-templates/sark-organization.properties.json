@@ -1,0 +1,13 @@
+{
+    "name": "Sark-IT Organization Workflow",
+    "description": "Sark-IT Organization Workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
